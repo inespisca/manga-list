@@ -1,0 +1,90 @@
+body {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* title */
+.header {
+    width: 60%;
+    margin: 5% auto 0px;
+    color: #1439dd;
+    background: white;
+    text-align: center;
+}
+
+/* All content (sidebar + info) */
+
+.wrapper {
+    width: 60%;
+    margin: 0px auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+li:hover {
+    cursor: pointer;
+    color: #1439dd;
+}
+
+ul {
+    margin-left: -20px;
+}
+
+/* sidebar */
+
+.sidebar {
+    width: 20%;
+    background: #b8c8eb;
+    margin-top: 90px;
+    float: left;
+}
+
+#side_list {
+    max-height: 360px;
+    overflow-y: scroll;
+    line-height: 1.4em;
+}
+
+.manga_name {
+    border-bottom: 1px solid #93a2e2
+}
+
+/* content */
+
+.manga {
+    width: 75%;
+    float: left;
+    padding-left: 20px;
+}
+
+h3 {
+    color: #1439dd;
+    font-size: 25px;
+    text-align: center;
+}
+
+hr {
+    color: #1439dd;
+}
+
+.content {
+    padding-left: 20px;
+}
+
+.picture {
+    position: fixed;
+    right: 450px;
+    height: 400px;
+    width: auto;
+}
+
+.ch, .vol, .stats {
+    overflow: hidden;
+}
+
+.chapters-read, .volumes-read, .currently {
+    float: left;
+    font-weight: 600;
+}
