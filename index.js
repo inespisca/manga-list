@@ -108,7 +108,7 @@ var manga = [
     },
     {
         title: "Darren Shan",
-        pic: "./pics/darren.png",
+        pic: "./pics/darren.jpg",
         chapter: "2",
         volume: "1",
         status: "On-Hold"
