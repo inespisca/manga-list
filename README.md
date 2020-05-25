@@ -1,5 +1,3 @@
-Update (May 25th): I've made a full stack version of this list. You can find it here: https://github.com/inespisca/MyMangaList
-
 Deployed on Netlify: https://mymangalist.netlify.com/
 
 ## Why making a list?
@@ -8,3 +6,6 @@ Tired of relying in my own memory or 3 different manga-list making websites beca
 ## Things to be solved:
 - Mobile view (not responsive at all for now, sorry)
 - Pictures (those are placeholders)
+
+## Update (may 25th)
+I've made a full stack version of this list. You can find it here: https://github.com/inespisca/MyMangaList
