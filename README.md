@@ -1,3 +1,5 @@
+Update (May 25th): I've made a full stack version of this list. You can find it here: https://github.com/inespisca/MyMangaList
+
 Deployed on Netlify: https://mymangalist.netlify.com/
 
 ## Why making a list?
